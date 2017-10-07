@@ -1,6 +1,6 @@
 # Compartilhe-seu-projeto
 
-Objetivo
+OObjetivo
 ----
 Repositório criado para que a comunidade possa compartilhar qualquer projeto útil entre desenvolvedores fluig.
 
